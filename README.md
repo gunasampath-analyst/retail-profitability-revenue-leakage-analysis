@@ -97,6 +97,8 @@ The dashboard follows a four-stage business story:
 
 Headline KPIs — Total Sales, Gross Profit, Margin %, Return Rate, Average Discount, and Orders — are combined with a 36-month sales-versus-profit trend and a profit-margin trend.
 
+![](https://github.com/gunasampath-analyst/retail-profitability-revenue-leakage-analysis/blob/b846b0eae9a38ed5c7ef7d284281ec7fd7d36070/Executive%20Performance.png)
+
 This page establishes the core tension that the rest of the report investigates: **revenue is growing while profitability is under pressure.**
 
 ---
@@ -106,6 +108,8 @@ This page establishes the core tension that the rest of the report investigates:
 **Business question:** *Where is our revenue leaking?*
 
 This page breaks total identified leakage into four components — Discounts, Returns, Shipping, and Channel Commission — through a revenue-to-profit bridge, discount leakage by category, discount-versus-margin analysis, return rates by product, and channel profitability.
+
+![](https://github.com/gunasampath-analyst/retail-profitability-revenue-leakage-analysis/blob/b846b0eae9a38ed5c7ef7d284281ec7fd7d36070/Revenue%20Leakage.png)
 
 The objective is to identify both **how much value is being absorbed** and **which mechanisms are responsible**.
 
@@ -125,6 +129,8 @@ The analysis includes:
 - Customer contribution
 - High-revenue / low-profit customer analysis
 
+![](https://github.com/gunasampath-analyst/retail-profitability-revenue-leakage-analysis/blob/b846b0eae9a38ed5c7ef7d284281ec7fd7d36070/Product%20%26%20Customer%20Profitability.png)
+
 The purpose is to identify where the profitability problem is concentrated and distinguish high-revenue activity from genuinely profitable activity.
 
 ---
@@ -139,6 +145,8 @@ The final page synthesizes the findings from Pages 1–3 into four decision-orie
 - Margin Opportunities
 - Growth Opportunities
 - Recommended Actions
+
+![](https://github.com/gunasampath-analyst/retail-profitability-revenue-leakage-analysis/blob/b846b0eae9a38ed5c7ef7d284281ec7fd7d36070/Management%20Action%20Center.png)
 
 The objective is to convert analytical findings into prioritized management actions without requiring a decision-maker to interpret every underlying chart.
 
